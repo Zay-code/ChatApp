@@ -1,3 +1,21 @@
+# Name
+React Messenger 
+
+# Description
+React Chat Application
+
+How It Works:
+- On the homepage the header with chat application's name will display and a sign in button
+- User will be able to sign in with a google account in order to use the application - User Authentication 
+- Once signed in, the messages will be directed and saved to firebase
+- The user can type their message in the text area at the bottom of the page and send the message by selecting enter on their keyboard or clicking the send button - the button will be disabled if there is no typed message to send. 
+- Sign out button in the header that will sign the user out and redirect to the homepage
+
+Packages Installed
+- Firebase
+- Firebase Hooks
+- Firebase Auth
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
